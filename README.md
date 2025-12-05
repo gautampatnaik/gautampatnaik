@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Hey there, I'm Gautam 👋</h1>
 
-<!--
-**gautampatnaik/gautampatnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--About me-->
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<!--/About me-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>Let's connect:</h5>
+<p>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="./Assets/LinkedIn.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:yourmail@gmail.com">
+    <img src="./Assets/Gmail.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="./Assets/X.svg" width="40" />
+  </a>
+</p>
+<!--/Socials-->
