@@ -5,7 +5,7 @@
 <!--/About me-->
 
 <!--Socials-->
-<h5>Let's connect:</h5>
+<h3>🙌Let's connect:</h3>
 <a href="https://linkedin.com/in/gautam-patnaik">
   <img src="./Assets/LinkedIn.svg" width="40" style="border:none;">
 </a>
