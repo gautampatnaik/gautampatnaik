@@ -7,13 +7,19 @@
 <!--Socials-->
 <h5>Let's connect:</h5>
 <div>
-  <a href="https://linkedin.com/in/gautam-patnaik">
-    <img src="./Assets/LinkedIn.svg" width="40" />
-  </a>
-  <a href="mailto:gautampatnaikk@gmail.com">
-    <img src="./Assets/Gmail.svg" width="40" />
-  </a>
-  <a href="https://x.com/gaauutm">
-    <img src="./Assets/X.svg" width="40" />
-  </a>
+  <span>
+    <a href="https://linkedin.com/in/gautam-patnaik" style="text-decoration:none;">
+      <img src="./Assets/LinkedIn.svg" width="40">
+    </a>
+  </span>
+  <span>
+    <a href="mailto:gautampatnaikk@gmail.com" style="text-decoration:none;">
+      <img src="./Assets/Gmail.svg" width="40">
+    </a>
+  </span>
+  <span>
+    <a href="https://x.com/gaauutm" style="text-decoration:none;">
+      <img src="./Assets/X.svg" width="40">
+    </a>
+  </span>
 </div>
