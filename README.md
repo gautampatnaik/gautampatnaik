@@ -6,8 +6,14 @@
 
 <!--Socials-->
 <h5>Let's connect:</h5>
-  <img src="./Assets/LinkedIn.pvg" width="52" height="40" alt="LinkedIn"/>
-  <img src="./Assets/X.pvg" width="52" height="40" alt="X"/>
-  <img src="./Assets/Gmail.pvg" width="52" height="40" alt="Gmail"/>
+<div>
+  <a href="https://linkedin.com/in/gautam-patnaik">
+    <img src="./Assets/LinkedIn.svg" width="40" />
+  </a>
+  <a href="mailto:gautampatnaikk@gmail.com">
+    <img src="./Assets/Gmail.svg" width="40" />
+  </a>
+  <a href="https://x.com/gaauutm">
+    <img src="./Assets/X.svg" width="40" />
+  </a>
 </div>
-<!--/Socials-->
